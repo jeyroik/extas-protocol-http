@@ -1,0 +1,13 @@
+{
+  "name": "jeyroik/extas-protocol-http",
+  "description": "Session, cookie protocols for the Extas",
+  "require": {
+    "jeyroik/extas-protocols":"*",
+    "symfony/http-foundation": "4.4.*"
+  },
+  "autoload": {
+    "psr-4": {
+      "extas\\": "src/"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "extas/protocol-http",
+  "protocols": [
+    {
+      "name": "cookie",
+      "title": "Cookie",
+      "description": "Cookie data",
+      "accept": ["*"],
+      "class": "extas\\components\\protocols\\ProtocolCookie"
+    },
+    {
+      "name": "session",
+      "title": "Session",
+      "description": "Session data",
+      "accept": ["*"],
+      "class": "extas\\components\\protocols\\ProtocolSession"
+    }
+  ]
+}
