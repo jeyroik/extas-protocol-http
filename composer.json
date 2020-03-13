@@ -2,8 +2,8 @@
   "name": "jeyroik/extas-protocol-http",
   "description": "Session, cookie protocols for the Extas",
   "require": {
-    "jeyroik/extas-protocols":"*",
-    "symfony/http-foundation": "4.4.*"
+    "jeyroik/extas-protocols":"1.*",
+    "symfony/http-foundation": "5.*"
   },
   "autoload": {
     "psr-4": {
