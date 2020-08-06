@@ -2,7 +2,7 @@
   "name": "jeyroik/extas-protocol-http",
   "description": "Session, cookie protocols for the Extas",
   "require": {
-    "jeyroik/extas-protocols":"1.*",
+    "jeyroik/extas-protocols":"2.*",
     "symfony/http-foundation": "5.*"
   },
   "autoload": {
